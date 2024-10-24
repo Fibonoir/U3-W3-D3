@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "fake@gmial.com",
+      "password": "$2a$10$Fgw8SHg8O/14Yzzvg.8avO2hFZG.ZPsy9YqDjKNCLry6w32K.eKvC",
+      "name": "giovanni",
+      "id": 1
+    },
+    {
+      "email": "fake@gmail.com",
+      "password": "$2a$10$S4QhTsBk839Asdc44sxzgOep2XyzxFxgVNjN7wsp39QXLZppZOqUe",
+      "name": "fake",
+      "id": 2
+    }
+  ]
+}
